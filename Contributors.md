@@ -1388,6 +1388,7 @@
 - [7exx](https://github.com/7exx)
 - [rakesh-kumar](https://github.com/Rakesh709)
 - [Adarsha K S](https://github.com/adarsha83)
+- Chagit Niss
 - [Anshul Dewangan](https://github.com/Anshul-04)
 - [Manish Rana](https://github.com/ranamaniz)
 - [Tarun Garg](https://github.com/Tarun110598)
